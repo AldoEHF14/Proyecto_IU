@@ -16,9 +16,9 @@ Diseñar una solución tecnológica que optimice el riego de plantas en espacios
 
 ---
 
-## 🔧 Componentes del Sistema
+##  🛠️  Componentes del Sistema
 
-### 🧠 Software
+### 🖥️  Software
 
 - `C++` para control en **Arduino**
 - `MySQL` para gestión de usuarios y perfiles de riego
