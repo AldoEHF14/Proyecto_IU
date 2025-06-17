@@ -1,5 +1,6 @@
 # UEA: Interfaces de Usuario
-# 🌱 TECNOBOTANIC – Sistema de Riego Automatizado con Interfaz Web
+
+## 🌱 TECNOBOTANIC – Sistema de Riego Automatizado con Interfaz Web
 
 Combina un sistema físico de riego automatizado con una interfaz de usuario moderna e intuitiva desarrollada en **Figma**, evaluada por criterios de usabilidad y diseñada bajo el patrón de arquitectura **MVC**.
 
