@@ -70,12 +70,3 @@ Las interfaces fueron diseñadas y simuladas en Figma:
 - 📈 [Evaluación SUS – Google Forms](https://docs.google.com/forms/d/e/1FAIpQLScsMSvX93XqW3NsQf64D0qgB-JWRnkBDR6UiEcPf08NPKBpGw/viewform)
 
 ---
-
-## 🧠 Arquitectura del Sistema
-
-- **MVC (Modelo - Vista - Controlador):**
-  - Modelo: Lógica de riego, sensores, base de datos
-  - Vista: Interfaz Figma / futura implementación HTML
-  - Controlador: Arduino + interfaz de voz + gestor de tareas
-
----
