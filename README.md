@@ -37,7 +37,7 @@ Diseñar una solución tecnológica que optimice el riego de plantas en espacios
 
 ---
 
-## 💡 Funcionamiento del Sistema
+## 💡 Funcionamiento
 
 El sistema cuenta con dos modos de riego:
 
